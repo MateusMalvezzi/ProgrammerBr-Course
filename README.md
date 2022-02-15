@@ -29,8 +29,11 @@ BackEnd
 - [Mongo DB](https://docs.mongodb.com/)
 
 ## :memo: License
-This project is under the MIT license. See the [license](LICENSE.md) file for more details.
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+
 ---
+
 Made by <tr>
     <td align="center"><a href="https://github.com/MateusMalvezzi"><b>Mateus Malvezzi Rodrigues</b></a><br /></td>
   <tr>
